@@ -1,0 +1,16 @@
+C:\practice6\practice6\practice6\bin\Debug\practice6.exe.config
+C:\practice6\practice6\practice6\bin\Debug\practice6.exe
+C:\practice6\practice6\practice6\bin\Debug\practice6.pdb
+C:\practice6\practice6\practice6\obj\Debug\practice6.csproj.AssemblyReference.cache
+C:\practice6\practice6\practice6\obj\Debug\practice6.csproj.SuggestedBindingRedirects.cache
+C:\practice6\practice6\practice6\obj\Debug\MainWindow.g.cs
+C:\practice6\practice6\practice6\obj\Debug\App.g.cs
+C:\practice6\practice6\practice6\obj\Debug\practice6_MarkupCompile.cache
+C:\practice6\practice6\practice6\obj\Debug\practice6_MarkupCompile.lref
+C:\practice6\practice6\practice6\obj\Debug\MainWindow.baml
+C:\practice6\practice6\practice6\obj\Debug\practice6.g.resources
+C:\practice6\practice6\practice6\obj\Debug\practice6.Properties.Resources.resources
+C:\practice6\practice6\practice6\obj\Debug\practice6.csproj.GenerateResource.cache
+C:\practice6\practice6\practice6\obj\Debug\practice6.csproj.CoreCompileInputs.cache
+C:\practice6\practice6\practice6\obj\Debug\practice6.exe
+C:\practice6\practice6\practice6\obj\Debug\practice6.pdb
